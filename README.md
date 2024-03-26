@@ -26,7 +26,7 @@ method.
 
 - I'm curious how all this applies to a front-end
 context. 
-    -How does java interact with what a user
+    - How does java interact with what a user
     sees?
 
 `System.out.println("Here is a block of code in a README.md file);`
