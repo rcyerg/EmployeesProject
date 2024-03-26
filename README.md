@@ -18,13 +18,13 @@ modifiers, as you can see.
 
 Here are some notes about the project: 
 
--It was fun to make subclasses
+- It was fun to make subclasses
 
--I need to study more about static and non-static contexts
+- I need to study more about static and non-static contexts
 since they weren't used at all outside of the main 
 method. 
 
--I'm curious how all this applies to a front-end
+- I'm curious how all this applies to a front-end
 context. 
     -How does java interact with what a user
     sees?
